@@ -1,15 +1,13 @@
 <template>
   <div id="app">
-    <Player />
+    demo
   </div>
 </template>
 
 <script>
-import Player from 'zw-player'
 export default {
   name: 'app',
   components: {
-    Player
   }
 }
 </script>
